@@ -22,3 +22,5 @@ Język programowania - Python 3.10.4
 * tabulate
 ## Uruchomienie
 W celu uruchomienia któregokolwiek z projektów należy pobrać repozytorium oraz poddać kompilacji pliki z rozszerzeniami .py.
+
+Treści do projektów znajdują się w folderze TaskContent.
